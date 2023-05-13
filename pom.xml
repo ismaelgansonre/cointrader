@@ -18,7 +18,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<xchange.version>4.3.10-SNAPSHOT</xchange.version>
 		<slf4j-api.version>1.7.5</slf4j-api.version>
-		<hibernate.version>5.2.12.Final</hibernate.version>
+		<hibernate.version>5.6.15.Final</hibernate.version>
 		<antlr.version>4.2.2</antlr.version>
 	</properties>
 
@@ -438,7 +438,7 @@
 		<!-- this is for the XChange SNAPSHOT code -->
 		<repository>
 			<id>sonatype-oss-snapshot</id>
-			<snapshots />
+			<snapshots/>
 			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
 		</repository>
 
