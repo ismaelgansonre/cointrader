@@ -113,7 +113,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>18.0</version>
+			<version>32.0.0-android</version>
 		</dependency>
 
 		<dependency>
@@ -154,7 +154,7 @@
 		<dependency>
 			<groupId>org.reflections</groupId>
 			<artifactId>reflections</artifactId>
-			<version>0.9.9-RC1</version>
+			<version>0.9.12</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-io</groupId>
@@ -438,7 +438,7 @@
 		<!-- this is for the XChange SNAPSHOT code -->
 		<repository>
 			<id>sonatype-oss-snapshot</id>
-			<snapshots />
+			<snapshots/>
 			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
 		</repository>
 
