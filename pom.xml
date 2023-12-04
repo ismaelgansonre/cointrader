@@ -54,7 +54,7 @@
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
-			<version>1.0.13</version>
+			<version>1.2.13</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-configuration</groupId>
@@ -438,7 +438,7 @@
 		<!-- this is for the XChange SNAPSHOT code -->
 		<repository>
 			<id>sonatype-oss-snapshot</id>
-			<snapshots />
+			<snapshots/>
 			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
 		</repository>
 
