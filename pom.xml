@@ -332,7 +332,7 @@
 <dependency>
     <groupId>com.therealvan</groupId>
     <artifactId>appender-core</artifactId>
-    <version>2.3.1</version>
+    <version>5.3.2</version>
 </dependency>
 <dependency>
     <groupId>com.therealvan</groupId>
@@ -438,7 +438,7 @@
 		<!-- this is for the XChange SNAPSHOT code -->
 		<repository>
 			<id>sonatype-oss-snapshot</id>
-			<snapshots />
+			<snapshots/>
 			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
 		</repository>
 
